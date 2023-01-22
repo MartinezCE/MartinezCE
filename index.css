@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content:space-around;
+    align-items: center;
+    BACKGROUND-COLOR: skyblue;
+}
+
+.left{
+    grid-template-columns: repeat(2,1fr);
+        display: grid;gap: 1em;
+}
+
+.rigth{
+    grid-template-columns: repeat(2,1fr);
+    display: grid;gap: 1em;  
+}

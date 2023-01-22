@@ -2,15 +2,9 @@
 **Software developer**
 
 <>
-    <div style="display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content:space-around;
-    align-items: center;BACKGROUND-COLOR: skyblue;">
+    <div class="container">
 
-  <div style="grid-template-columns: repeat(2,1fr);
-        display: grid;gap: 1em;">
+  <div class="left">
 
 ![tostadora](http://www.homerswebpage.com/flash/tostadora_100px1.gif)
 
@@ -30,8 +24,7 @@
 
 ![jebus](http://www.homerswebpage.com/images/jebusDance.gif)
 
-<div style="grid-template-columns: repeat(2,1fr);
-        display: grid;gap: 1em;">
+<div class='rigth'>
 
 ![tostadora](http://www.homerswebpage.com/flash/tostadora_100px1.gif)
 
