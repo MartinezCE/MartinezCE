@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hola soy Cristian 👋
+**Software developer**
 
-<!--
-**MartinezCE/MartinezCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![tostadora](http://www.homerswebpage.com/flash/tostadora_100px1.gif)
+
+![reloj](http://www.homerswebpage.com/flash/reloj_60px1.gif)
+
+
+![gusano](http://www.homerswebpage.com/flash/gusano_60px1.gif)
+
+![campana](http://www.homerswebpage.com/flash/campana_80px1.gif)
+
+![boca](http://www.homerswebpage.com/flash/boca_90px1.gif)
+
+
+![jebus](http://www.homerswebpage.com/images/jebusDance.gif)
+
+
+Me gusta aprender nuevos lenguajes y frameworks.
 
 Here are some ideas to get you started:
 
@@ -13,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
