@@ -39,7 +39,7 @@
   <!-- 2 -->
   <text x="20" y="130" class="prompt line" style="animation-delay:1.8s">$</text>
   <text x="40" y="130" class="cmd" clip-path="url(#c2)">cat stack.txt</text>
-  <text x="20" y="154" class="out line" style="animation-delay:3s">React · Next.js · Node.js · Spring Boot · PostgreSQL</text>
+  <text x="20" y="154" class="out line" style="animation-delay:3s">React · Next.js · Node.js · Spring Boot · PostgreSQL · MongoDB</text>
 
   <!-- 3 -->
   <text x="20" y="184" class="prompt line" style="animation-delay:3.6s">$</text>
