@@ -57,13 +57,16 @@ flowchart LR
     F --> B["BFF<br/>Node / Express"]
     B --> M1["Microservicio<br/>Spring Boot"]
     B --> M2["Microservicio<br/>Spring Boot"]
+    M1 --> SQL[("Base de datos SQL")]
+    M2 --> NOSQL[("Base de datos NoSQL")]
     F -. assets .-> S[("AWS S3 + CloudFront")]
 ```
 
 - Implementé **Content Security Policy (CSP)** en el frontend como respuesta a una auditoría de seguridad bancaria.
 - Integré **MFA con Auth0** en el flujo de autenticación.
 - Integré métricas de producto con **Amplitude**.
-- Desarrollé cambios **end-to-end** atravesando microservicio → BFF → frontend.
+- Desarrollé cambios **end-to-end** atravesando base de datos → microservicio → BFF → frontend.
+- Trabajé con persistencia en bases de datos **SQL y NoSQL** desde los microservicios.
 - Trabajé con **AWS S3 + CloudFront**, deploy con **nullplatform** y **CI/CD en GitHub**.
 
 ### Proyectos
