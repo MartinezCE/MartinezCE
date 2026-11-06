@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Cristian Martinez 👋</h1>
+<h1 align="center">Hola, soy Cristian Martinez</h1>
 <p align="center">
   <b>Full Stack Developer</b> · React / Next.js · Node.js · Spring Boot<br/>
   📍 Buenos Aires, Argentina · 🌎 Abierto a oportunidades remotas
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧭 Sobre mí
+## Sobre mí
 
 Desarrollador full stack con **más de 5 años de experiencia**, con fuerte peso en frontend y en crecimiento constante en backend y arquitectura.
 
@@ -50,7 +50,7 @@ Llegué al software desde el hardware: empecé programando **microcontroladores 
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat&logo=amplitude&logoColor=white)
 
-## 💼 Experiencia destacada
+## Experiencia destacada
 
 **Full Stack Developer — Nera** (fintech)
 - Implementé **Content Security Policy (CSP)** en el frontend como respuesta a una auditoría de seguridad bancaria.
@@ -59,7 +59,7 @@ Llegué al software desde el hardware: empecé programando **microcontroladores 
 - Desarrollé cambios end-to-end atravesando **microservicio → BFF → frontend**.
 - Trabajé con **AWS S3 + CloudFront**, deploy con nullplatform y **CI/CD en GitHub**.
 
-## 🚀 Proyectos
+## Proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -74,7 +74,7 @@ Llegué al software desde el hardware: empecé programando **microcontroladores 
 **[A Neptune-size Planet Candidate in a 2.77 days Orbit Around TYC 8996-1013-1](https://doi.org/10.3847/2515-5172/ada615)**<br/>
 *Research Notes of the AAS* · Enero 2025 · Análisis de datos del satélite TESS con Python (Astropy, Lightkurve, Juliet).
 
-## 🌱 Ahora mismo
+## Ahora mismo
 
 - Profundizando en **arquitectura de software y backend** para ser un full stack cada vez más completo.
 - Construyendo herramientas con **IA aplicada** (MCP, agentes).
